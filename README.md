@@ -1,6 +1,7 @@
 # Transmission-BVM
 
 This is the implementation of our paper`Transmission-Guided Bayesian Generative Model for Smoke Segmentation(AAAI2021)`.
+[**SAFA: Structure Aware Face Animation**](https://arxiv.org/abs/2111.04928).
 
 
 ### SMOKE5K dataset 
