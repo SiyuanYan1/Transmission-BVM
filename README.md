@@ -1,6 +1,6 @@
 # Transmission-BVM
 
-This is the implementation of our paper[**Transmission-Guided Bayesian Generative Model for Smoke Segmentation(AAAI2021)**]
+This is the implementation of our paper`Transmission-Guided Bayesian Generative Model for Smoke Segmentation(AAAI2021)`.
 (https://arxiv.org/abs/2111.04928).
 
 
