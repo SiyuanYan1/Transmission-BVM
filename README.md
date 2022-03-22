@@ -7,6 +7,10 @@
 
 - Download SMOKE5K_S (scribble annotations): https://drive.google.com/file/d/1oz7lIPID1iVAw5qECr_xK4XGU65Wivip/view?usp=sharing
 
+### code
+
+We provide a sampling-based BVM model and a sampling-free transmission-BVM.
+
 
 
 
