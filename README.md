@@ -9,7 +9,7 @@
 
 ### code
 
-We provide a sampling-based BVM model and a sampling-free transmission-BVM.
+We provide both sampling-based BVM and sampling-free transmission-BVM.
 
 
 
