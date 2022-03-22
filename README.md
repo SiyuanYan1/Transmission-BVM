@@ -1,4 +1,6 @@
-# Transmission-Guided-Bayesian-Generative-Model-for-Smoke-Segmentation (AAAI 2022)
+# Transmission-BVM
+
+This is the implementation of our paper`Transmission-Guided Bayesian Generative Model for Smoke Segmentation(AAAI2021)`.
 
 
 ### SMOKE5K dataset 
