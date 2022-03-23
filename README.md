@@ -12,7 +12,7 @@ Paper link: (https://www.aaai.org/AAAI22Papers/AAAI-6315.YanS.pdf).
 
 - Download SMOKE5K_S (scribble annotations): https://drive.google.com/file/d/1oz7lIPID1iVAw5qECr_xK4XGU65Wivip/view?usp=sharing
 
-### code
+### Code
 
 We provide both sampling-based BVM and sampling-free transmission-BVM.
 
