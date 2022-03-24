@@ -16,6 +16,10 @@ Paper link: (https://www.aaai.org/AAAI22Papers/AAAI-6315.YanS.pdf).
 
 We provide both sampling-based BVM and sampling-free transmission-BVM.
 
+### Our model results on SMOKE5K
+
+https://drive.google.com/file/d/11q4B-pV5CWvIlhaHdhz4amZTk01RvNBP/view?usp=sharing
+
 
 
 
